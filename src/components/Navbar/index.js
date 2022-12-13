@@ -41,27 +41,27 @@ const Navbar = ({ toggle }) => {
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
-              IRON <GiBoxingGlove />
+              BK KELLY <GiBoxingGlove />
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />
             </MobileIcon>
             <NavMenu>
               <NavItem>
-                <NavLinks to="/about">about.</NavLinks>
+                <NavLinks to="/about">OM KLUBBEN</NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to="/classes">classes.</NavLinks>
+                <NavLinks to="/classes">TRÄNINGSPASS</NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to="/membership">memberships.</NavLinks>
+                <NavLinks to="/membership">MEDLEMSKAP</NavLinks>
               </NavItem>
               <NavItem>
-                <NavLinks to="/coaches">coaches.</NavLinks>
+                <NavLinks to="/coaches">TRÄNARE</NavLinks>
               </NavItem>
             </NavMenu>
             <NavBtn>
-              <NavBtnLink to="/contact">GET IN TOUCH</NavBtnLink>
+              <NavBtnLink to="/contact">KONTAKT</NavBtnLink>
             </NavBtn>
           </NavbarContainer>
         </Nav>

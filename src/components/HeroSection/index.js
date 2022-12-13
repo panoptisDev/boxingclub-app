@@ -30,9 +30,9 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1>
-          IRON <GiBoxingGlove /> BOXING GYM
+          BK KELLY <GiBoxingGlove /> BOXNING KLUBB
         </HeroH1>
-        <HeroP>est. 2019</HeroP>
+        <HeroP>est. 1932</HeroP>
         <HeroBtnWrapper>
           <Button
             to="contact"
@@ -41,7 +41,7 @@ const HeroSection = () => {
             primary="true"
             dark="true"
           >
-            HIRE ME {hover ? <ArrowForward /> : <ArrowRight />}
+            Börja Träna {hover ? <ArrowForward /> : <ArrowRight />}
           </Button>
         </HeroBtnWrapper>
 

@@ -20,10 +20,7 @@ const AboutInfo = () => {
           <AboutH4>Hello subtitel</AboutH4>
           <AboutH1>Title</AboutH1>
           <AboutP>
-            Wenn Sie als gewerblicher Kunde Interesse an größeren Stoffmengen
-            für die Bereiche Bekleidung oder Interior haben, kontaktieren Sie
-            uns oder setzten Sie sich mit einer unserer internationalen
-            Repräsentanzen in Verbindung.
+            övrig info.
           </AboutP>
           <AboutButton></AboutButton>
         </BoxOne>
@@ -32,10 +29,7 @@ const AboutInfo = () => {
           <AboutH4>Hello subtitel</AboutH4>
           <AboutH1>Title</AboutH1>
           <AboutP>
-            Wenn Sie als gewerblicher Kunde Interesse an größeren Stoffmengen
-            für die Bereiche Bekleidung oder Interior haben, kontaktieren Sie
-            uns oder setzten Sie sich mit einer unserer internationalen
-            Repräsentanzen in Verbindung.
+            Övrig Info.
           </AboutP>
           <AboutButton></AboutButton>
         </BoxTwo>

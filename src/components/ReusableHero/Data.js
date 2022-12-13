@@ -4,7 +4,7 @@ import box3 from "../../images/image3.jpg";
 import box4 from "../../images/image4.jpg";
 
 export const HeroDataOne = {
-  title: "THE CLUB",
+  title: "KLUBBEN",
   bgImg: box1
 };
 
@@ -14,11 +14,11 @@ export const HeroDataTwo = {
 };
 
 export const HeroDataThree = {
-  title: "BOOK A CLASS",
+  title: "Boxning - En Sport För Alla",
   bgImg: box3
 };
 
 export const HeroDataFour = {
-  title: "MEMBERSHIP PACKAGES",
+  title: "MEDLEMSKAP",
   bgImg: box4
 };

@@ -24,31 +24,31 @@ const Footer = () => {
         <FooterLinksContainer>
           <FooterLinksWrapper>
             <FooterLinksItems>
-              <FooterLinkTitle>About Us</FooterLinkTitle>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
-              <FooterLink to="/about">About.</FooterLink>
+              <FooterLinkTitle>TRÄNINGSTIDER</FooterLinkTitle>
+              <FooterLink to="/about">Måndag_18.30-20.00_Fysträning</FooterLink>
+              <FooterLink to="/about">Tisdag_18.30-20.00_Fys_&_Teknik</FooterLink>
+              <FooterLink to="/about">Onsdag_17.00-18.00_Nybörjare</FooterLink>
+              <FooterLink to="/about">Torsdag_18.30-20.00_Teknik_&_Sparring</FooterLink>
+              <FooterLink to="/about">.</FooterLink>
+              <FooterLink to="/about">.</FooterLink>
+              <FooterLink to="/about">.</FooterLink>
             </FooterLinksItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/">
-              IRON <GiBoxingGlove />
+              BK Kelly <GiBoxingGlove />
             </SocialLogo>
             <WebsiteRights>
-              IRON <GiBoxingGlove /> &copy; {new Date().getFullYear()} All
-              rights reserved. | Developed by BernardDigitalLTD.
+              BK KELLY <GiBoxingGlove /> &copy; {new Date().getFullYear()} All
+              rights reserved. | Developed by PanoptisDev.
             </WebsiteRights>
             <SocialIcons>
-              <SocialIconLink href="/" target="_blank" aria-label="Facebook">
+              <SocialIconLink href="https://www.facebook.com/people/BK-Kelly-Boxning/100067907108353/" target="_blank" aria-label="Facebook">
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" aria-label="Instagram">
+              <SocialIconLink href="https://www.instagram.com/bk_kelly.orebro/" target="@bk_kelly.orebro" aria-label="Instagram">
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink href="/" target="_blank" aria-label="Github">

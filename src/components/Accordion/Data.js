@@ -1,19 +1,13 @@
 export const Data = [
   {
-    package: "TRIALS",
-    titleOne: "3 SESSIONS [£30]",
-    descOne: "1 week expiry from first booked session.",
-    titleTwo: "INTRO TO PT 2 FOR 1 [£75]",
+    package: "PRÖVA PÅ",
+    titleOne: "3 Pass [0kr]",
+    descOne: "Vi erbjuder dig 3st gratis pröva-på pass första veckan",
+    titleTwo: "INTRODUKTION",
     descTwo:
-      "Two 60-minute one to one personal coaching sessions. A great way to get started or to improve your technique. Available to anyone who has never experienced a personal coaching session at 12x3."
+      "Du är välkommen att komma och titta på något av vära träningar, för att avgöra om det är något för dig"
   },
-  {
-    package: "ROAD WORK",
-    titleOne: "1 SESSION [£8]",
-    descOne:
-      "12x3's Running Club Follow the routines of a boxer in training. Running, Shadow Boxing & Circuits."
-  },
-  {
+  /* {
     package: "SESSION PACKS",
     titleOne: "1 SESSION [£25]",
     descOne: "1 Month Expiry.",
@@ -21,16 +15,16 @@ export const Data = [
     descTwo: "3 Months Expiry.",
     titleThree: "8 SESSIONS [£160]",
     descThree: "6 Months Expiry."
-  },
+  },*/
 
   {
-    package: "MEMBERSHIPS",
-    titleOne: "12x3 MONTHLY [£210]",
-    descOne: "BOOK UP TO 12 SESSIONS PER MONTH",
-    titleTwo: "12X3 UNLIMITED [£249]",
-    descTwo: "BOOK UP TO 7 SESSION PER WEEK FOR THE MOST COMMITED"
+    package: "MEDLEMSKAP",
+    titleOne: "Halv År [600kr]",
+    descOne: "Du kan träna på samtliga av våra tränings pass eller välja de pass som passar dig bäst. Våra pass är 90 minuter långa och vi kräver att man är i tid ombytt om man skall träna",
+    titleTwo: "*",
+    descTwo: "UPP TILL 5 SESSIONER PER VECKA FÖR DE MEST ENGAGERADE"
   },
-  {
+  /*{
     package: "PERSONAL COACHING",
     titleOne: "1 SESSION - PERSONAL COACHING [£75]",
     descOne: "3 Months Expiry",
@@ -38,5 +32,5 @@ export const Data = [
     descTwo: "6 Months Expiry ",
     titleThree: "10 SESSIONS - PERSONAL COACHING [£650]",
     descThree: "12 Months Expiry."
-  }
+  } */
 ];
